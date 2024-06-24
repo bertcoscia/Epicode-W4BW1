@@ -1,5 +1,8 @@
 # Build Week 1 - Team 5 
-<a href="https://github.com/Cecchy2/Bw-1/graphs/contributors">Contributors</a> <br>
+
+![Original Repository](https://github.com/Cecchy2/Bw-1)
+
+![Contributors](https://github.com/Cecchy2/Bw-1/graphs/contributors)
 
 **Ricrea la Benchmark Platform di EPICODE**
 
@@ -27,8 +30,16 @@ Le pagine che dovrete creare sono: <br>
   <li>Permetti all'utente di selezionare la difficoltà del quiz prima di iniziare e il numero di domande che desidera ricevere.</li>
 </ul>
 
-**ASSETS & SCREENS (da usare come mockup di riferimento)** <br>
-<a href="https://join.epicode.com/wp-content/uploads/2022/03/exam_01_welcome.png">Welcome Page</a> <br>
-<a href="https://join.epicode.com/wp-content/uploads/2022/03/exam_02_test.png">Benchmark Page</a> <br>
-<a href="https://join.epicode.com/wp-content/uploads/2022/03/exam_03_results.png">Results Page</a> <br>
-<a href="https://join.epicode.com/wp-content/uploads/2022/03/exam_04_review.png">Feedback Page </a> <br>
+**ASSETS & SCREENS (da usare come mockup di riferimento)**
+
+## Welcome Page
+![Welcome Page](https://join.epicode.com/wp-content/uploads/2022/03/exam_01_welcome.png)
+
+## Benchmark Page
+![Benchmark Page](https://join.epicode.com/wp-content/uploads/2022/03/exam_02_test.png)
+
+## Results Page
+![Results Page](https://join.epicode.com/wp-content/uploads/2022/03/exam_03_results.png)
+
+## Feedback Page
+![Feedback Page](https://join.epicode.com/wp-content/uploads/2022/03/exam_04_review.png)
